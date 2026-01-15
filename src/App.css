@@ -50,7 +50,8 @@
   color: blue;
 }
 .decrement:hover,
-.increment:hover {
+.increment:hover,
+.reset:hover {
   cursor: pointer;
   opacity: 0.7;
 }
